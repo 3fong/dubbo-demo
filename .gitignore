@@ -51,3 +51,4 @@ out/
 .vagrant/
 .springBeans
 /target/
+.gitignore
