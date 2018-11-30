@@ -1,8 +1,8 @@
 # Compiled class file
 *.class
 *.log
-/.classpath
-/.project
+.classpath
+.project
 /target/*
 /bin/*
 
